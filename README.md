@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=TSBread&color=0e75b6&style=plastic)
+
+<img src="https://img.shields.io/badge/mcbbs.net-TSBread-%23f78967"></img>
+
+![](https://img.shields.io/badge/BiliBili-TSBread2960278-%2300a1d6)
+
+![](https://img.shields.io/badge/GitHub-TSBread-%23002859)
+
 <!--
 **TSBread/TSBread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
